@@ -1,4 +1,4 @@
-# binary-classifiation
+# Discription
 
 In tourism and travel related industries, most of the research on Revenue Management demand forecasting and prediction problems employ data from the aviation industry, in the format known as the Passenger Name Record (PNR). This is a format developed by the aviation industry [2]. However, the remaining tourism and travel industries like hospitality, cruising, theme parks, etc., have different requirements and particularities that cannot be fully explored without industry׳s specific data. Hence, two hotel datasets with demand data are shared to help in overcoming this limitation.
 
